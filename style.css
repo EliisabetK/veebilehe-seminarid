@@ -1,0 +1,65 @@
+<link rel=¨stylesheet¨ type=¨text/css¨ href=¨..\html\index.css¨>
+
+#p1 {background-color: rgba(255, 0, 0);}
+#p2 {background-color: rgba(0, 255, 0);}
+#p3 {background-color: rgba(0, 0, 255);}
+body {
+  column-count: 2;
+  column-gap: 40px;
+  background-color: #FFFAFA;
+  background-image: url("smoke.png"); 
+  background-size: 100px 100px;
+}
+h1 {
+  color: #363636;
+  font-family: "Lucida Console";
+  font-size: 50px;
+  font-weight: bold;
+}
+p {
+  text-align: justify;
+  color: #465D4A;
+  font-family: "Courier New";
+  font-size: 20px;
+}
+
+h2 {
+  color: #363636;
+  font-family: "Lucida Console";
+  font-size: 30px;
+  font-weight: bold;
+}
+li {
+  color: #465D4A;
+  font-family: "Courier New";
+  font-size: 18px;
+}
+th {
+  color: #AAD2BA;
+  font-family: "Courier New";
+  font-size: 20px;
+  font-weight: bold;
+}
+td {
+  color: #465D4A;
+  font-family: "Courier New";
+  font-size: 17px;
+}
+a:link {
+  color: #191970;
+  font-family: "Courier New";
+  font-size: 20px;
+}
+
+a:hover {
+  color: #1E90FF;
+  font-family: "Courier New";
+  font-size: 20.3px;
+}
+img {
+   border: 5px solid #AAD2BA;
+}
+
+table, th, td {
+  border:1px solid black;
+}
